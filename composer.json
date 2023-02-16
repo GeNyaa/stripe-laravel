@@ -1,5 +1,5 @@
 {
-    "name": "cartalyst/stripe-laravel",
+    "name": "genyaa/stripe-laravel",
     "description": "Laravel 9 integration for the Cartalyst Stripe package.",
     "keywords": [
         "php",
@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.0 | ^8.1",
         "cartalyst/stripe": "^2.0",
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^9.0 || ^10.0"
     },
     "require-dev": {
         "cartalyst/php-cs-fixer-config": "^1.0",
